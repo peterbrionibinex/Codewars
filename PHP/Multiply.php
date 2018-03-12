@@ -15,4 +15,4 @@
     return $a*$b;
   }
 
-multiply(4,3);
+multiply(4,3); //returns 12
