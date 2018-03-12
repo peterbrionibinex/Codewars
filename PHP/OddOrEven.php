@@ -16,5 +16,5 @@
       return $n%2==0? "Even":"Odd";
   }
 
-  even_or_odd(7); //returns Odd
-  even_or_odd(4); //returns Even
+  echo even_or_odd(7); //returns Odd
+  echo even_or_odd(4); //returns Even

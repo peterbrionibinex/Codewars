@@ -21,5 +21,5 @@
     return $n>0? -1*abs($n):abs($n);
   }
 
-  opposite(-1); //returns 1
-  opposite(1); //returns -1
+  echo opposite(-1); //returns 1
+  echo opposite(1); //returns -1
