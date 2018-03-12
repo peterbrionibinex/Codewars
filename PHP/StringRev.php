@@ -7,7 +7,7 @@
     
       Complete the solution so that it reverses the string value passed into it.
     
-    Rank: 8kyu
+    Rank: 7kyu
     Author: Peter Joshua Brion
   */
 
